@@ -1,8 +1,8 @@
 {
   "format_version": 1,
   "header": {
-    "description": "Islamitext, but we're in bedrok",
-    "name": "Islamitext",
+    "description": "Muslimtext, but we're in bedrock",
+    "name": "Muslimtext",
     "platform_locked": false,
     "uuid": "d3d1b0ce-a797-49d1-821e-91ae89986b1d",
     "version": [
@@ -13,7 +13,7 @@
   },
   "modules": [
     {
-      "description": "Islamitext",
+      "description": "Muslimtext, but we're in bedrock",
       "type": "resources",
       "uuid": "3c696d1e-14ec-4769-8588-e64cb2209fb2",
       "version": [
